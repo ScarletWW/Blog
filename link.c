@@ -7,7 +7,7 @@
 #include <string.h>
 #include <dirent.h>
 #include <utime.h>
-
+//author:王浩天
 void Mycp(char *fsource,char *ftarget);       //将源目录信息复制到目标目录下
 void CopyFile(char *fsource,char *ftarget);  //直接复制
 //各种函数原型的应用，参数的设置，查找很多函数资料
